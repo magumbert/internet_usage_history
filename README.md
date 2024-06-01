@@ -1,8 +1,7 @@
 ### History of Internet Usage Across The World
 
-![Internet Usage](https://www.flickr.com/photos/mwichary/2151368358/)
+[![Internet Usage](https://www.flickr.com/photos/mwichary/2151368358/)](https://www.flickr.com/photos/mwichary/2151368358/)
 
-*Picture by Marcin Wichary, licensed under CC BY 2.0.*
 
 **Written in Python 3.10**
 
@@ -15,7 +14,7 @@
 
 #### Project Description
 
-Explore the dynamic evolution of internet usage globally with this interactive web application. From the years 1990 to 2019, delve into trends and insights about internet penetration and usage patterns.
+Explore the dynamic evolution of internet usage globally with this small interactive web application. From the years 1990 to 2019, delve into trends and insights about internet penetration and usage patterns.
 
 **Access the web application:** [History of Internet Usage](https://history-internet-usage.streamlit.app/)
 
@@ -23,4 +22,4 @@ For all the code, refer to `streamlit_live:coding_mpg.py`, and the data is avail
 
 #### Cloning the Repository
 
-Feel free to clone this repository for further exploration. Need assistance? Refer to our [cloning guide](link_to_cloning_guide).
+Feel free to clone this repository for further exploration.
