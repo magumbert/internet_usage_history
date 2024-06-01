@@ -1,5 +1,9 @@
 # History of Internet Usage Across The World
 
+<img src="gates_jobs.jpg" alt="Alt text" width="600" height="400" />
+
+*Picture by [Leandro Agrò](https://www.flickr.com/photos/leeander/). Licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).*
+
 ## An Interactive Web Application
 
 **Written in Python 3.10**
@@ -15,7 +19,7 @@
 
 Explore the dynamic evolution of internet usage globally with this small interactive web application. From the years 1990 to 2019, delve into trends and insights about internet penetration and usage patterns.
 
-**Access the web application:** [History of Internet Usage](https://internet-usage-history.streamlit.app/)
+**Access the web application:** [History of Internet Usage](https://internet-usage-history.streamlit.app/) (complete loading might take a few seconds)
 
 For all the code, refer to `streamlit_internet_usage_history.py`, and the data is available [here](https://github.com/magumbert/internet_usage_history/tree/main/data). Ensure you have all the necessary packages installed by checking `requirements.txt`.
 
