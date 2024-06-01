@@ -1,6 +1,6 @@
 # History of Internet Usage Across The World
 
-![Bill Gates and Steve Jobs](gates_jobs.png)
+![Bill Gates and Steve Jobs](https://github.com/magumbert/internet_usage_history/gates_jobs.png)
 
 ## An Interactive Web Application
 
