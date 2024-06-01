@@ -1,6 +1,7 @@
 # History of Internet Usage Across The World
 
 <img src="gates_jobs.jpg" alt="Alt text" width="600" height="400" />
+
 Picture by [Leandro Agrò](https://www.flickr.com/photos/leeander/). Licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).
 
 ## An Interactive Web Application
