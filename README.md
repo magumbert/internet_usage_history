@@ -1,24 +1,26 @@
-# History of Internet Usage Across The World
+### History of Internet Usage Across The World
 
-![alternative text](reports/img/apple2.jpg)
-Picture by Marcin Wichary from https://www.flickr.com/photos/mwichary/2151368358/. Licensed under CC BY 2.0.
+![Internet Usage](https://www.flickr.com/photos/mwichary/2151368358/)
 
-## Written in Python 3.10
+*Picture by Marcin Wichary, licensed under CC BY 2.0.*
 
-### Required Packages
-* streamlit 1.35.0
-* pandas 2.2.1
-* matplotlib 3.8.4
-* plotly 5.22.0
+**Written in Python 3.10**
 
+#### Required Packages
 
-## Project Description
-The idea of this small project was to write an interactive web application that investigates the evolution of internet usage across the globe. The data at hand ranges from the year 1990 to 2019.
+- streamlit 1.35.0
+- pandas 2.2.1
+- matplotlib 3.8.4
+- plotly 5.22.0
 
-Check out the web out application: https://history-internet-usage.streamlit.app/
+#### Project Description
 
-The file *streamlit_live:coding_mpg.py* inherits all the code. The data is available [here](https://github.com/magumbert/my-first-streamlitapp/tree/master/data).
-You can find all the installation requirements in the *requirements.txt.* file.
+Explore the dynamic evolution of internet usage globally with this interactive web application. From the years 1990 to 2019, delve into trends and insights about internet penetration and usage patterns.
 
-## Cloning the repo
-Feel free to clone this repo. For help see [here](https://help.github.com/articles/cloning-a-repository/).
+**Access the web application:** [History of Internet Usage](https://history-internet-usage.streamlit.app/)
+
+For all the code, refer to `streamlit_live:coding_mpg.py`, and the data is available [here](link_to_data). Ensure you have all the necessary packages installed by checking `requirements.txt`.
+
+#### Cloning the Repository
+
+Feel free to clone this repository for further exploration. Need assistance? Refer to our [cloning guide](link_to_cloning_guide).
