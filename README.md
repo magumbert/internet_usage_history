@@ -1,6 +1,7 @@
 # History of Internet Usage Across The World
 
-![Bill Gates and Steve Jobs](gates_jobs.jpg)
+<img src="gates_jobs.jpg" alt="Alt text" width="300" height="200" />
+*Picture by [Leandro Agrò](https://www.flickr.com/photos/leeander/). Licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/).*
 
 ## An Interactive Web Application
 
