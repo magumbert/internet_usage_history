@@ -1,8 +1,5 @@
 ### History of Internet Usage Across The World
 
-[![Internet Usage](https://www.flickr.com/photos/mwichary/2151368358/)](https://www.flickr.com/photos/mwichary/2151368358/)
-
-
 **Written in Python 3.10**
 
 #### Required Packages
