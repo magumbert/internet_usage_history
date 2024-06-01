@@ -1,5 +1,7 @@
 # History of Internet Usage Across The World
 
+![Bill Gates and Steve Jobs](gates_jobs.png)
+
 ## An Interactive Web Application
 
 **Written in Python 3.10**
