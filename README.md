@@ -1,4 +1,4 @@
-### History of Internet Usage Across The World
+# History of Internet Usage Across The World
 
 **Written in Python 3.10**
 
