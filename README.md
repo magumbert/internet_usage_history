@@ -17,7 +17,7 @@ Explore the dynamic evolution of internet usage globally with this small interac
 
 **Access the web application:** [History of Internet Usage](https://history-internet-usage.streamlit.app/)
 
-For all the code, refer to `streamlit_live:coding_mpg.py`, and the data is available [here](https://github.com/magumbert/internet_usage_history/tree/main/data). Ensure you have all the necessary packages installed by checking `requirements.txt`.
+For all the code, refer to `streamlit_internet_usage_history.py`, and the data is available [here](https://github.com/magumbert/internet_usage_history/tree/main/data). Ensure you have all the necessary packages installed by checking `requirements.txt`.
 
 #### Cloning the Repository
 
