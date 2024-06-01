@@ -18,7 +18,7 @@ Picture by [Leandro Agrò](https://www.flickr.com/photos/leeander/). Licensed un
 
 Explore the dynamic evolution of internet usage globally with this small interactive web application. From the years 1990 to 2019, delve into trends and insights about internet penetration and usage patterns.
 
-**Access the web application:** [History of Internet Usage](https://internet-usage-history.streamlit.app/)
+**Access the web application:** [History of Internet Usage](https://internet-usage-history.streamlit.app/) (complete loading might take a few seconds)
 
 For all the code, refer to `streamlit_internet_usage_history.py`, and the data is available [here](https://github.com/magumbert/internet_usage_history/tree/main/data). Ensure you have all the necessary packages installed by checking `requirements.txt`.
 
