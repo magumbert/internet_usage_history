@@ -1,5 +1,7 @@
 # History of Internet Usage Across The World
 
+## An Interactive Web Application
+
 **Written in Python 3.10**
 
 #### Required Packages
